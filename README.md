@@ -1,6 +1,6 @@
 # PredictionIO Client
 
-## Instalation
+## Installation
 
 ## Configuration
 Set up PredictionIO credentials
