@@ -5,6 +5,13 @@
     "request": "~2.27.0",
     "qs": "~0.6.5"
   },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "nock": "~0.23.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
   "description": "PredioctionIO client for Node.js",
   "main": "index.js",
   "repository": {
